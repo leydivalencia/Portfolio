@@ -1,4 +1,4 @@
-<h1> Leydi Valencia's Web Portfolio</h1>
+<h1> Leydi Valencia Web Portfolio</h1>
 
 ## Descripción
 Este es mi portafolio web donde muestro mis habilidades y proyectos en desarrollo de software y multimedia. Incluye ejemplos de mi trabajo, una breve biografía y formas de contactarme.
